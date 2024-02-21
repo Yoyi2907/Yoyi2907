@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Yoyi29
+- 👀 I’m interested in videogames programming
+- 🌱 I’m currently learning systems informatiques
